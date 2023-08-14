@@ -10,7 +10,6 @@
 
 ## Ranking of feras parameters
 
-
     - Priority0 
       - Morality API (m-API)
       - Skepticism API (s-API)
