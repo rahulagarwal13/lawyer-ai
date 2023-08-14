@@ -12,15 +12,11 @@
 
 
     - Priority0 
-      -
       - Morality API (m-API)
-    - Prioirity1
-      - Empathy API (e-API)
-      - Courage API (c-API)
-
-    - Priority2
       - Skepticism API (s-API)
+    - Prioirity1
+      - Courage API (c-API)
+      - Empathy API (e-API)
     - Priority3
       - Foresight API (f-API)
       - Purpose API (p-API)
-
